@@ -1,0 +1,23 @@
+								<--  8085 Micro Processor  -->
+
+It is a 8 bit Micro Processor introduced by intel in 1976.
+
+--> Features of 8085:
+
+1. 8 bit Data Bus:
+	It can handle 8 bits of data simultaneously.
+
+2. 16 bit Address Bus:
+	Can address up to 64 kb of memory.
+
+3. Clock - Speed:
+	It operates at the maximum frequency of 3 MHz.
+
+4. Power Supply:
+	It requires +5 V of DC power supply.
+
+5. Instructions Set:
+	It supports 74 instructions including arithmetic, logical, control, & data transfer instructions.
+
+6. Registers:
+	It includes general purpose and special purpose registers for computation and data manipulation.
