@@ -1,0 +1,44 @@
+<--   Micro Processor  -->
+
+A Micro Processor is  a single integrated circuit (I/C) chip that integrates the functions of computer CPU. allowing it to process instructions and perform operations such as arithmetic, logic and data transfer.
+
+-->Key Features:
+
+1. Compact Design:
+	Micro processors can integrate millions of transistors into a small chip.
+
+2. Programable:
+	They execute instructions written in machine or assembly language.
+
+3. Multi Purpose:
+	Used in computers, calculators, mobiles, etc.
+
+4. Speed:
+	The speed is measured in Hz(Hertz) typically in DecaHz (DHz) or GigaHz (GHz).
+
+5. Power Consumption:
+	Modern Micro Processors are designed to be power efficient.
+
+
+--> Basic Components of Micro processor:
+
+1. Arithmetic and Logical Unit (ALU) (eg:add,sub):  
+	Perform arithmetic (+,-) and logical operation (& (and), | (or), ! (not)).
+
+2. Control Unit (CU):
+	Manages and controls the flow of data and instructions feeded  in system.
+
+3. Registers:
+	Small, fast, storage locations used for temporary data storage.
+
+4. clock:
+	Synchronizes all operations by providing timming signals.
+
+5. Bus System:
+a. Data Bus:
+	Transfers data.
+b. Adress Bus:
+	Specifies memeory loc.
+c. Control Bus:
+	Carries control signals.
+
